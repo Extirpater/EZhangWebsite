@@ -46,15 +46,15 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Backend Developer",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Machine Learning",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Founder",
     icon: creator,
   },
 ];
@@ -116,55 +116,55 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
+    title: "Software + Prompt Engineer",
+    company_name: "Delilah - Startup",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "December 2022 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Devloping and maintaining deiliah.ai",
+      "Working on Templates feature where users can have targeted essay help",
+      "Handling OpenAI API calls for GPT-3 & GPT-4 implementation",
+      "Part of growth and marketing teams",
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
+    title: "Machine Learning Digital Pathology Reseracher",
+    company_name: "Dartmouth Hitchcock Medical Center",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "June 2021 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "",
+      "",
+      "",
+      "",
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
+    title: "Kaggle Master",
+    company_name: "Kaggle",
     icon: shopify,
     iconBg: "#383E56",
     date: "Jan 2022 - Jan 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "I am one of the youngest Kaggle Dataset Masters in the world, ranking as high as 74th of ~80,000 PhD/industry professional users in 2022",
+      "Attained 200,000+ dataset views & 30,000+ downloads over 16 datasets",
+      'featured on Kaggle trending datasets page (top search result on Google for “Car Object Detection”)',
+      "catalyzed over 100+ real world research project notebooks on topics such as Glaucoma, Vehicle Object Detection, COVID-19, etc",
     ],
   },
   {
-    title: "Full stack Developer",
-    company_name: "Meta",
+    title: "Founder",
+    company_name: "__",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "TBA-TBA",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "",
+      "",
+      "",
+      "",
     ],
   },
 ];
@@ -172,35 +172,35 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "____",
+    name: "TBD",
+    designation: "TBD",
+    company: "TBD",
+    image: "",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+      "____",
+    name: "TBD",
+    designation: "TBD",
+    company: "TBD",
+    image: "",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+      "____",
+    name: "TBD",
+    designation: "TBD",
+    company: "TBD",
+    image: "",
   },
 ];
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "LymeLyte",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "I developed a free and easy-to-use Lyme disease app called LymeLyte under the guidance of the Chief of the Lyme Studies Unit at the NIH, Dr. Adriana Marques. Our app runs a machine learning learning model, achieving an accuracy of 93%, and outperforms clinician visual diganosis specificity of 60%.",
     tags: [
       {
         name: "react",
@@ -211,7 +211,7 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "Tensorflow",
         color: "pink-text-gradient",
       },
     ],
@@ -219,9 +219,9 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Job IT",
+    name: "TBA",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "__",
     tags: [
       {
         name: "react",
@@ -240,9 +240,9 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "TBA",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "_",
     tags: [
       {
         name: "nextjs",
